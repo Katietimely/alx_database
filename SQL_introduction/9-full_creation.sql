@@ -1,6 +1,3 @@
--- using the assigned database
-USE hbtn_0c_0;
-
 -- creating new table
 CREATE TABLE IF NOT EXISTS second_table (
     id INT PRIMARY KEY,
